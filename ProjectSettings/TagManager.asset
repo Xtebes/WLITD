@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interaction
+  - Obstacle
+  - Hidden
+  - NotHidden
+  - Monster
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: InBackPlayer2
+    uniqueID: 680198525
+    locked: 0
+  - name: InBackPlayer1
+    uniqueID: 2963671975
+    locked: 0
+  - name: MonsterFlashLight
+    uniqueID: 1243794641
+    locked: 0
+  - name: PlayerFlashLight
+    uniqueID: 2667463005
+    locked: 0
+  - name: PlayerNoFlashLight
+    uniqueID: 3795160583
+    locked: 0
+  - name: MonsterNoFlashLight
+    uniqueID: 1018493427
+    locked: 0
+  - name: InFrontPlayer1
+    uniqueID: 355222215
+    locked: 0
+  - name: InFrontPlayer2
+    uniqueID: 538276029
+    locked: 0
